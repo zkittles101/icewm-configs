@@ -1,0 +1,32 @@
+#!/bin/bash
+#icewm-session -s &
+
+sleep 1 &&
+xfce4-power-manager &
+
+sleep 1 &&
+gvolwheel &
+
+sleep 1 &&
+redshift &
+
+#polybar -c ~/.config/polybar/icewm-bar.ini -r &
+
+sleep 1 &&
+ibus-daemon -rxd &
+
+xfce4-notifyd &
+
+#icewmbg -i /usr/share/backgrounds/julia.jpg --center=1
+
+#/home/zkitty/.fehbg &
+
+conky &
+
+sleep 1 &&
+nm-applet &
+
+rescrobbled &
+
+sleep 1 &&
+copyq &
