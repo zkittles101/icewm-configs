@@ -18,9 +18,9 @@ key "Super+Enter"	alacritty
 key "Print"		scratta
 key "Super+Space"	rofi -show drun
 key "Super+v"		thunar
-key "Super+t"		Telegram
-key "Super+c"		thorium-browser
-key "Super+f"		firefox
+key "Super+t"		Forkgram
+key "Super+c"		min-browser
+key "Super+f"		librewolf
 key "Super+m"		audacious
 key "Ctrl+q"		xkill
 

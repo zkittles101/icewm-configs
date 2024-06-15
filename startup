@@ -21,6 +21,8 @@ xfce4-notifyd &
 
 #/home/zkitty/.fehbg &
 
+xcompmgr -r 9.8 -o 0.61 -l -13.8 -t -14.5 -I 0.017 -O 0.02 -D 6.0 -c -C -f -F -n &
+
 conky &
 
 sleep 1 &&

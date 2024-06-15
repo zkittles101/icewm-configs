@@ -475,7 +475,7 @@ ToolButtonFontNameXft="RobotoMono Nerd Font:size=11"
 ToolTipFontNameXft="RobotoMono Nerd Font:size=9"
 
 #  Surround the tray with plastic border.
-TrayDrawBevel=1 # 0/1
+TrayDrawBevel=0 # 0/1
 
 #  Maximum scaled height of tray icons.
 TrayIconMaxHeight=24 # [16-128]
@@ -484,9 +484,9 @@ TrayIconMaxHeight=24 # [16-128]
  TrayIconMaxWidth=32 # [16-128]
 
 DesktopBackgroundMultihead = 0
-DesktopBackgroundCenter    = 0
+DesktopBackgroundCenter    = 1
 SupportSemitransparency    = 1
-DesktopBackgroundScaled    = 1
+DesktopBackgroundScaled    = 0
 ShuffleBackgroundImages    = 0
 CycleBackgroundsPeriod     = 0
-DesktopBackgroundImage     = /usr/share/backgrounds/julia.jpg
+DesktopBackgroundImage     = /usr/share/backgrounds/snow-cap.jpg
