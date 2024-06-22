@@ -16,7 +16,7 @@ key "Super+KP_Add"          amixer sset Master 5%+
 # Custom KeyBindings For Programs
 key "Super+Enter"	alacritty
 key "Print"		scratta
-key "Super+Space"	rofi -show drun
+key "Super+Space"	rofi -drun-use-desktop-cache -show drun
 key "Super+v"		thunar
 key "Super+t"		Forkgram
 key "Super+c"		min-browser
