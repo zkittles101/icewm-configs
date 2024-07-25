@@ -12,6 +12,10 @@ redshift &
 
 #polybar -c ~/.config/polybar/icewm-bar.ini -r &
 
+gvolwheel &
+
+setxkbmap -option "caps:swapescape"
+
 sleep 1 &&
 ibus-daemon -rxd &
 
