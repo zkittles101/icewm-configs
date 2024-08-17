@@ -14,7 +14,7 @@ redshift &
 
 gvolwheel &
 
-setxkbmap -option "caps:swapescape"
+xmodmap ~/.Xmodmap &
 
 sleep 1 &&
 ibus-daemon -rxd &
