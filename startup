@@ -12,8 +12,6 @@ redshift &
 
 #polybar -c ~/.config/polybar/icewm-bar.ini -r &
 
-gvolwheel &
-
 xmodmap ~/.Xmodmap &
 
 sleep 1 &&
